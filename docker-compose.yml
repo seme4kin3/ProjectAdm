@@ -14,7 +14,7 @@ services:
       context: serviceone
       dockerfile: Dockerfile
     environment: 
-      - URI_ENV=http://servicetwo:80/
+      - AppSettings=http://servicetwo:80/
     ports:
       - "5050:80"
     networks:
