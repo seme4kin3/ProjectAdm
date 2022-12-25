@@ -5,7 +5,7 @@ COPY *.csproj ./
 RUN dotnet restore "serviceone.csproj"
 COPY . ./
 RUN dotnet publish serviceone.csproj -c Release -o out
-FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/out .
 ENTRYPOINT ["dotnet", "serviceone.dll"]
