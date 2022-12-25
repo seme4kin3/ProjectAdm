@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\backend\\ProjectForAdm\\serviceone\\serviceone.csproj",
+      "projectUniqueName": "C:\\Users\\kluev\\Source\\Repos\\ProjectAdm\\serviceone\\serviceone.csproj",
       "projectName": "serviceone",
-      "projectPath": "C:\\projects\\backend\\ProjectForAdm\\serviceone\\serviceone.csproj",
+      "projectPath": "C:\\Users\\kluev\\Source\\Repos\\ProjectAdm\\serviceone\\serviceone.csproj",
       "packagesPath": "C:\\Users\\kluev\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\backend\\ProjectForAdm\\serviceone\\obj\\",
+      "outputPath": "C:\\Users\\kluev\\Source\\Repos\\ProjectAdm\\serviceone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kluev\\AppData\\Roaming\\NuGet\\NuGet.Config",

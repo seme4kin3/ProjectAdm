@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OeNQeJIRFYakB/161FrR3pPxZsloRDWc3pWT3rThvN0EbxExwyuMIq8TZX9IsDd8UFWf7MTuRPslwo6Hyvm1Aw==",
+  "dgSpecHash": "yMV2qO4vqH1is2uYKd4wADUz75VERygeXXyQhmxr5FIX9i2WH1u5gjZ78dqXQvO8L3Asmh+XIvrkeNxEpWhldw==",
   "success": true,
-  "projectFilePath": "C:\\projects\\backend\\ProjectForAdm\\serviceone\\serviceone.csproj",
+  "projectFilePath": "C:\\Users\\kluev\\Source\\Repos\\ProjectAdm\\serviceone\\serviceone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kluev\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\kluev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
